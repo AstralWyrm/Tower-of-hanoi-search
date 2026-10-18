@@ -1,0 +1,223 @@
+Searching: d=4, p=3, algorithm=ids, heuristic=3a
+Solution length: 15
+Expected length: 15
+Matches formula: True
+Moves:
+ (1:1->2)
+ (2:1->3)
+ (1:2->3)
+ (3:1->2)
+ (1:3->1)
+ (2:3->2)
+ (1:1->2)
+ (4:1->3)
+ (1:2->3)
+ (2:2->1)
+ (1:3->1)
+ (3:2->3)
+ (1:1->2)
+ (2:1->3)
+ (1:2->3)
+Total expanded states: 8533
+
+Searching: d=4, p=3, algorithm=ida, heuristic=3a
+Solution length: 15
+Expected length: 15
+Matches formula: True
+Total expanded states: 218
+
+Searching: d=5, p=3, algorithm=ida, heuristic=3a
+Solution length: 31
+Expected length: 31
+Matches formula: True
+Total expanded states: 18937
+
+Searching: d=4, p=3, algorithm=ida, heuristic=3b
+Solution length: 15
+Expected length: 15
+Matches formula: True
+Moves:
+ (1:1->2)
+ (2:1->3)
+ (1:2->3)
+ (3:1->2)
+ (1:3->1)
+ (2:3->2)
+ (1:1->2)
+ (4:1->3)
+ (1:2->3)
+ (2:2->1)
+ (1:3->1)
+ (3:2->3)
+ (1:1->2)
+ (2:1->3)
+ (1:2->3)
+Total expanded states: 113
+
+Searching: d=5, p=3, algorithm=ida, heuristic=3b
+Solution length: 31
+Expected length: 31
+Matches formula: True
+Moves:
+ (1:1->3)
+ (2:1->2)
+ (1:3->2)
+ (3:1->3)
+ (1:2->1)
+ (2:2->3)
+ (1:1->3)
+ (4:1->2)
+ (1:3->2)
+ (2:3->1)
+ (1:2->1)
+ (3:3->2)
+ (1:1->3)
+ (2:1->2)
+ (1:3->2)
+ (5:1->3)
+ (1:2->1)
+ (2:2->3)
+ (1:1->3)
+ (3:2->1)
+ (1:3->2)
+ (2:3->1)
+ (1:2->1)
+ (4:2->3)
+ (1:1->3)
+ (2:1->2)
+ (1:3->2)
+ (3:1->3)
+ (1:2->1)
+ (2:2->3)
+ (1:1->3)
+Total expanded states: 5591
+
+Searching: d=6, p=3, algorithm=ida, heuristic=3b
+Solution length: 63
+Expected length: 63
+Matches formula: True
+Moves:
+ (1:1->2)
+ (2:1->3)
+ (1:2->3)
+ (3:1->2)
+ (1:3->1)
+ (2:3->2)
+ (1:1->2)
+ (4:1->3)
+ (1:2->3)
+ (2:2->1)
+ (1:3->1)
+ (3:2->3)
+ (1:1->2)
+ (2:1->3)
+ (1:2->3)
+ (5:1->2)
+ (1:3->1)
+ (2:3->2)
+ (1:1->2)
+ (3:3->1)
+ (1:2->3)
+ (2:2->1)
+ (1:3->1)
+ (4:3->2)
+ (1:1->2)
+ (2:1->3)
+ (1:2->3)
+ (3:1->2)
+ (1:3->1)
+ (2:3->2)
+ (1:1->2)
+ (6:1->3)
+ (1:2->3)
+ (2:2->1)
+ (1:3->1)
+ (3:2->3)
+ (1:1->2)
+ (2:1->3)
+ (1:2->3)
+ (4:2->1)
+ (1:3->1)
+ (2:3->2)
+ (1:1->2)
+ (3:3->1)
+ (1:2->3)
+ (2:2->1)
+ (1:3->1)
+ (5:2->3)
+ (1:1->2)
+ (2:1->3)
+ (1:2->3)
+ (3:1->2)
+ (1:3->1)
+ (2:3->2)
+ (1:1->2)
+ (4:1->3)
+ (1:2->3)
+ (2:2->1)
+ (1:3->1)
+ (3:2->3)
+ (1:1->2)
+ (2:1->3)
+ (1:2->3)
+Total expanded states: 8033606
+
+Searching: d=0, p=4, algorithm=ids, heuristic=3a
+Solution length: 0
+Total expanded states: 0
+
+Searching: d=1, p=4, algorithm=ids, heuristic=3a
+Solution length: 1
+Total expanded states: 1
+
+Searching: d=2, p=4, algorithm=ids, heuristic=3a
+Solution length: 2
+Total expanded states: 3
+
+Searching: d=3, p=4, algorithm=ids, heuristic=3a
+Solution length: 4
+Total expanded states: 27
+
+Searching: d=4, p=4, algorithm=ids, heuristic=3a
+Solution length: 6
+Total expanded states: 365
+
+Searching: d=5, p=4, algorithm=ids, heuristic=3a
+Solution length: 8
+Total expanded states: 8940
+
+Searching: d=6, p=4, algorithm=ids, heuristic=3a
+Solution length: 12
+Total expanded states: 2115456
+
+k values: [0, 1, 2, 4, 6, 8, 12]
+Searching: d=1, p=4, algorithm=ida, heuristic=4a
+Solution length: 1
+Total expanded states: 1
+
+Searching: d=2, p=4, algorithm=ida, heuristic=4a
+Solution length: 3
+Total expanded states: 4
+
+Searching: d=3, p=4, algorithm=ida, heuristic=4a
+Solution length: 5
+Total expanded states: 10
+
+Searching: d=4, p=4, algorithm=ida, heuristic=4a
+Solution length: 9
+Total expanded states: 107
+
+Searching: d=5, p=4, algorithm=ida, heuristic=4a
+Solution length: 13
+Total expanded states: 1544
+
+Searching: d=6, p=4, algorithm=ida, heuristic=4a
+Solution length: 17
+Total expanded states: 37841
+
+Searching: d=7, p=4, algorithm=ida, heuristic=4a
+Solution length: 25
+Total expanded states: 9176981
+
+f(d, 4): [1, 3, 5, 9, 13, 17, 25]
+Saved: results/results.json
